@@ -1,0 +1,6 @@
+{
+  "name": "NKAG Care - BSCKI. Danh Thanh Tâm",
+  "description": "Ứng dụng y tế Nam Khoa An Giang của BSCKI. Danh Thanh Tâm. Hỗ trợ đặt lịch khám, đánh giá sinh lý nam (IIEF-5, PEDT, IPSS), bài tập Kegel, cẩm nang y khoa và tư vấn Telemedicine bảo mật.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
